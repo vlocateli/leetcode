@@ -1,3 +1,5 @@
+// status: accepted
+
 #include <iostream>
 #include <vector>
 class Solution{
